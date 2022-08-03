@@ -2461,9 +2461,6 @@ body{
   color: var(--main-desc-color);
 }
 
-/* .question__form {
-} */
-
 .question__input-zone {
   width: 375px;
   margin-bottom: 27px;
