@@ -2421,7 +2421,7 @@ body{
   -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center;
-  width: 1463px;
+  width: 1519px;
   margin-right: auto;
   margin-left: auto;
   background-color: var(--main-text-color);
@@ -2433,6 +2433,7 @@ body{
 .question__map {
   width: 462px;
   height: 652px;
+  border: none;
 }
 
 .question__text-box {
@@ -2541,7 +2542,6 @@ body{
   padding-left: 50px;
   font-size: 16px;
   line-height: 21px;
-  
   color: #fff;
   background-color: var(--main-hover-color);
   border: none;
