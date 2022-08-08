@@ -251,7 +251,10 @@ body{
   background-image: url(../images/schedule.svg);
 }
 
-/*  Start footer bottom  */
+/*  Start header bottom  */
+.site-header__bottombox {
+  background-color: #fff;
+}
 .site-header__bottom-box {
   position: relative;
   top: 0;
@@ -262,7 +265,6 @@ body{
   -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center;
-  background-color: #fff;
   
 }
 .logo {
@@ -1737,8 +1739,7 @@ body{
   padding-bottom: 270px;
   background-image: url("../images/doctor-cat.png"), url("../images/yellow-parrot.png");
   background-repeat: no-repeat;
-  background-position: top 60px left calc(50% + 500px),
-    bottom 50px left calc(50% + 527px);
+  background-position: top 60px left calc(50% + 500px), bottom 50px left calc(50% + 527px);
 }
 
 .faq__info {
